@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "lib": ["DOM", "ESNext"],
+    "strictNullChecks": true,
+    "paths": {
+      "~*": ["./*"]
+    }
+  },
+  "include": ["src/**/*"]
+}
